@@ -1,0 +1,118 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ex10.Main",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex01.HelloWorld",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MediaGastos<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex02.MediaGastos",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FatorialLong<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex03.FatorialLong",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Loop1<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex03.Loop1",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Loop2<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex03.Loop2",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Loop3<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex03.Loop3",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TesteContas<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex04.TesteContas",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TesteContas<SCJ Fundamentos Aula 1>(1)",
+            "request": "launch",
+            "mainClass": "ex05.TesteContas",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TesteContas<SCJ Fundamentos Aula 1>(2)",
+            "request": "launch",
+            "mainClass": "ex06.TesteContas",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TesteContas<SCJ Fundamentos Aula 1>(3)",
+            "request": "launch",
+            "mainClass": "ex07.main.TesteContas",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Teste<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex08.Teste",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TesteTaxa<SCJ Fundamentos Aula 1>",
+            "request": "launch",
+            "mainClass": "ex08.TesteTaxa",
+            "projectName": "SCJ Fundamentos Aula 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Teste<SCJ Fundamentos Aula 1>(1)",
+            "request": "launch",
+            "mainClass": "ex09.Teste",
+            "projectName": "SCJ Fundamentos Aula 1"
+        }
+    ]
+}
